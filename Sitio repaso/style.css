@@ -1,0 +1,51 @@
+
+.hed {
+    background-color: rgb(148, 147, 111);
+    padding: 23px;
+    display: flex;
+    border-radius: 0 0 2rem 2rem;
+  }
+  .icons {
+    padding-left: 25%;
+  }
+  .IMG {
+    padding: 80px;
+  }
+  .bot {
+    color: #1d1d1b;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: "Inter", sans-serif;
+    padding: 2%;
+    font-weight: bolder;
+  }
+  body {
+    background-image: url(/Img/The\ car.jpeg);
+  }
+.img1{
+    width: 8%;
+}
+  .content {
+    background-color: #fafafa; 
+    opacity: 0.9;
+    /* padding: 61px; */
+    display: flex;
+  border-radius: 2rem;
+    align-items: center;
+    justify-content: center;
+  }
+  .text {
+    color: #1d1d1b;
+    max-width: 35rem;   
+    background-color: #fafafa;
+    font-family: "Inter", sans-serif;
+    padding: 2rem;
+    border-radius: 2rem;
+  }
+  .imgcar {
+    width: 40rem;
+border-radius:4rem ; 
+padding: 2rem;
+}
+
+  
